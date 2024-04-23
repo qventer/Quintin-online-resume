@@ -1,0 +1,44 @@
+.nav-link{
+  color: black;
+}
+.container-image{
+height: 400px;
+width: 400px;
+}
+.heroText{
+  text-align: left;
+}
+.project-h2{
+  text-align: center;
+  margin: 40px;
+  font-family: Arial, Helvetica, sans-serif
+}
+h1{
+  font-family: Helvetica, sans-serif;
+}
+p{
+  font-family: Arial , sans-serif;
+  text-align: center;
+}
+.btn{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.projectSection{
+  margin-top: 50px;
+}
+.about-h2{
+  text-align: center;
+}
+.about-text{
+  text-align: center;
+}
+.Image1.Image2.Image3{
+  text-align: center;
+}
+.aboutSection{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.container.contactSection{
+  text-align: center;
+}
